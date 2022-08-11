@@ -1,0 +1,4 @@
+<launch>
+    <node name="dummypublisher" pkg="task1" type="dummypublisher.py" output="screen"/>
+    <node name="subscriber" pkg="task1" type="subscriber.py" output="screen"/>
+</launch>
