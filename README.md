@@ -1,3 +1,8 @@
+# ROS Tasks Documentation
+
+I took screenshots of important things I found on ROS from the wiki ros , surich course, winter workshop, other websites and put them all in a google doc with headings for easy navigation.
+https://docs.google.com/document/d/1xJqROzBp-s3CJPQsa1XtOXCJ2lW04Bj3G4JnrTiixrY/edit?usp=sharing
+
 # Intro-ROS-Task1
 Done
 1) i made a catkin workspace using catkin make.
@@ -39,6 +44,6 @@ I launched the simulation. I played the cmd_vel topic of the rosbag. So this tim
 6) In the node, I made it print all the twist messages after addition of noise. I also printed the linear.x before addition of noise for comparison.
 ![Screenshot (604)](https://user-images.githubusercontent.com/106007058/184818019-898d245d-86e2-4763-bb3f-a25c0469b056.png)
 
-
-
+I faced problems with the syntax of python while writing the node due to no prior experience with python.
+Now, I have started learning python in a proper way.
 
